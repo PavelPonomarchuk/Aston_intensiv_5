@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aston_intensiv_5</string>
+    <string name="details_name_label">Name:</string>
+    <string name="details_surname_label">Surname:</string>
+    <string name="details_phone_label">Phone:</string>
+    <string name="details_button_edit_label">Edit</string>
+    <string name="edit_button_save_changes_label">Save changes</string>
+    <string name="edit_hint_name">Contact\'s name</string>
+    <string name="edit_hint_surname">Contact\'s surname</string>
+    <string name="edit_hint_phone_number">Phone number</string>
+    <string name="edit_is_blank_error_message">You have to fill info</string>
+</resources>
